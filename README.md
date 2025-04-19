@@ -19,7 +19,7 @@ A simple and powerful desktop-based Python application that removes the backgrou
 ## 📦 Requirements
 
 - Python 3.x
-- The following Python packages (auto-installed via `requirements.txt`):
+- The following Python packages (auto-installed via `environment.yaml`):
   - `rembg`
   - `Pillow`
   - `PyQt5`
