@@ -26,3 +26,7 @@ A simple and powerful desktop-based Python application that removes the backgrou
    ```bash
    git clone https://github.com/MalikAbdulSalam/Remove-background.git
    cd Remove-background
+   conda env create -f environment.yaml
+   conda activate rmbg
+   python main.py
+   
