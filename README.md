@@ -1,7 +1,15 @@
 # 🖼️ Remove Background - Desktop Application
 
 A simple and powerful desktop-based Python application that removes the background from images with a single click.
+---
 
+## 🖼️ Screenshot
+
+![Chatbot Flow Screenshot](Aget_based_chatbot.png)
+
+> A high-level view of the LangGraph-based chatbot workflow.
+
+---
 ## 🚀 Features
 
 - ✅ Easy-to-use GUI
