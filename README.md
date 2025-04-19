@@ -5,7 +5,7 @@ A simple and powerful desktop-based Python application that removes the backgrou
 
 ## 🖼️ Screenshot
 
-![Chatbot Flow Screenshot](Aget_based_chatbot.png)
+![Chatbot Flow Screenshot](Assets/Remove_background.png)
 
 > A high-level view of the LangGraph-based chatbot workflow.
 
